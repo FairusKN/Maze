@@ -8,7 +8,7 @@ A simple Maze game built in [Greenfoot](https://www.greenfoot.org/) for a school
 
 ## Authors
 
-- [@fairusKN](https://www.github.com/octokatherine)
+- [@FairusKN](https://github.com/FairusKN)
 - [@adluwasnthere](https://www.instagram.com/adluwasnthere?igsh=MXB1bHFmbXJ3enBkaw==)
 - [@mojsha__](https://www.instagram.com/mojsha__?igsh=MTlnOHpyYzRmMWFzOQ==)
 
