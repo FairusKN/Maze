@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=teks
+comment1.params=imagePath\ width\ height
+comment1.target=teks(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=path\ width\ height
+comment3.target=void\ setImageFromPath(java.lang.String,\ int,\ int)
+comment4.params=path
+comment4.target=void\ changeImage(java.lang.String)
+comment5.params=width\ height
+comment5.target=void\ scaleImage(int,\ int)
+numComments=6

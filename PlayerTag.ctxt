@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PlayerTag
+comment1.params=player
+comment1.target=PlayerTag(Player)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Laser
+comment1.params=
+comment1.target=Laser()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ handleDelay()
+comment4.params=
+comment4.target=void\ animateLaser()
+comment5.params=
+comment5.target=void\ checkCollision()
+numComments=6

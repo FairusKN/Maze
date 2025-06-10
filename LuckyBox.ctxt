@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LuckyBox
+comment1.params=
+comment1.target=LuckyBox()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkPlayerTouch()
+comment4.params=
+comment4.target=void\ playAnimation()
+comment5.params=
+comment5.target=void\ applyEffect()
+comment6.params=
+comment6.target=void\ triggerJumpscare()
+numComments=7
